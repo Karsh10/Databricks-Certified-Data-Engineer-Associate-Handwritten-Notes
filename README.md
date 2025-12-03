@@ -74,12 +74,13 @@ https://www.udemy.com/share/10dDpB3@Xe33MpOqRWfcApnolZylguur3Puaf_RbAjTPTPgKBfgb
 | Data Quality | DLT Expectations, Filter Corrupted Data |
 
 ---
-Exam Section	What It Covers	Lecture Numbers
-Section 1 — Databricks Intelligence Platform	Lakehouse, Delta, Architecture, Compute, SQL Warehouse	1–16, 45–47, 51, 55–56
-Section 2 — Development & Ingestion	DBUtils, PySpark transforms, SQL basics	23–27
-Section 3 — Data Processing & Transformations	SQL CTEs, monitoring, query optimization	48–54
-Section 4 — Productionizing Pipelines	CI/CD, Asset Bundles, Jobs, Repos	122–136
-Section 5 — Governance & Data Quality	Unity Catalog, Tables, Volumes, Federation, Delta Sharing	17–22, 28–30, 97–101
+| Exam Section                                      | What It Covers                                            | Lecture Numbers        |
+| ------------------------------------------------- | --------------------------------------------------------- | ---------------------- |
+| **Section 1 — Databricks Intelligence Platform**  | Lakehouse, Delta, Architecture, Compute, SQL Warehouse    | 1–16, 45–47, 51, 55–56 |
+| **Section 2 — Development & Ingestion**           | DBUtils, PySpark transforms, SQL basics                   | 23–27                  |
+| **Section 3 — Data Processing & Transformations** | SQL CTEs, monitoring, query optimization                  | 48–54                  |
+| **Section 4 — Productionizing Pipelines**         | CI/CD, Asset Bundles, Jobs, Repos                         | 122–136                |
+| **Section 5 — Governance & Data Quality**         | Unity Catalog, Tables, Volumes, Federation, Delta Sharing | 17–22, 28–30, 97–101   |
 
 ## ⭐ If this helps you  
 Please ⭐ star the repository. Contributions and suggestions are welcome!
