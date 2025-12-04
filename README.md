@@ -1,7 +1,7 @@
 # 📘 Databricks Certified Data Engineer Associate — Handwritten Notes  
 ### Based on Udemy Course by Ansh Lamba
 
-This repository contains my **handwritten notes** created while studying for the **Databricks Certified Data Engineer Associate** certification.
+This repository contains my **handwritten notes and exercises** created while studying for the **Databricks Certified Data Engineer Associate** certification.
 
 I am following the Udemy course by **Ansh Lamba**:  
 https://www.udemy.com/share/10dDpB3@Xe33MpOqRWfcApnolZylguur3Puaf_RbAjTPTPgKBfgbk-7aDeJ9bPizZMKbY0Npow==/
